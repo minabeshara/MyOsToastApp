@@ -1,0 +1,7 @@
+{
+  "name": "MyOsToastApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
